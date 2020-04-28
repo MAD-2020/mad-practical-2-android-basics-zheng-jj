@@ -15,7 +15,6 @@
         android:text="O"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:onClick="setNewMole"
         />
 
     <Button
@@ -27,7 +26,7 @@
         android:text="O"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:onClick="setNewMole"/>
+        />
 
     <Button
         android:id="@+id/Hole3"
@@ -38,7 +37,7 @@
         android:text="O"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:onClick="setNewMole"/>
+        />
 
     <TextView
         android:id="@+id/Score"
